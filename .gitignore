@@ -1,0 +1,10 @@
+node_modules/
+*transpiled.js
+.env
+.DS_Store
+.idea/
+dist/
+npm-debug.log.*
+yarn-error.log
+.nyc_output/
+coverage/
